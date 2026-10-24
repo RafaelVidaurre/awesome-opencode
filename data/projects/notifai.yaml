@@ -1,0 +1,4 @@
+name: Notifai
+repo: https://github.com/Raidiant-io/notifai
+tagline: Get OpenCode's notifications and questions on your phone, and answer them there
+description: OpenCode pings your phone when it finishes, hits an error or needs a decision, and each notification says which project and session it's from. If it asks you something, you answer from the phone and it carries on in the same session. The CLI and skill are open source (Apache-2.0); the phone apps are a paid service.
